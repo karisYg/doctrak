@@ -6,7 +6,7 @@
 
 #### By 
 
-**  Peter kariuki mutuura - [GitHub](http://karisyg.github.io) **
+**  Peter kariuki mutuura - [GitHub](http://peterkariukimutuura.github.io) **
 ** Beatrice Wanjiru Mburu- [GitHub](http://mburuBeatrice.github.io)**
 ** Racheal Wambui Mbugua- [GitHub](http://racheal234.github.io)**
 ** Mauko Maunde - [Website](https://mauko.co.ke/)
